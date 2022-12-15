@@ -1,0 +1,6 @@
+Size of array,Average Number of Comparisons in Quick Sort,Average Running time of Quick Sort,Average Number of Comparisons in Merge Sort,Average Running time in Merge Sort,Number of times Merge Sort outperformed Quick Sort
+100, 650, 6, 542, 6, 3
+1000, 10982, 84, 8708, 126, 42
+10000, 156302, 1050, 120444, 1522, 25
+100000, 2011721, 13328, 1536370, 18684, 0
+1000000, 28235367, 168450, 18674169, 213504, 0

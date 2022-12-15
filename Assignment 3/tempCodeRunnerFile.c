@@ -1,0 +1,1 @@
+    printf("Top of numbers : %d\nTop of Operators : %c\n", Top(*numbers), Top(*operators));

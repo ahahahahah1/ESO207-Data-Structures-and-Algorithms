@@ -1,0 +1,6 @@
+Size of array,Average running time of Quick Sort,Average running time of Improved Merge Sort,Number of times Improved Merge Sort outperformed Quick Sort
+100,6,10,3
+1000,84,78,42
+10000,1050,1034,86
+100000,13328,12858,235
+1000000,168450,144702,500

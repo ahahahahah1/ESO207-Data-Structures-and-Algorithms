@@ -1,0 +1,11 @@
+Size of array,Average Running Time,Number of cases where time exceeds average by 5%,Number of cases where time exceeds average by 10%,Number of cases where time exceeds average by 20%,Number of cases where time exceeds average by 30%,Number of cases where time exceeds average by 50%,Number of cases where time exceeds average by 100%
+100, 6
+1000, 84
+10000, 1050
+100000, 13328
+1000000, 168450
+100000, 13028,82,3,1,0,0,0
+300000, 41726,51,3,0,0,0,0
+500000, 74324,19,2,0,0,0,0
+700000, 110970,24,5,0,0,0,0
+900000, 149294,45,13,2,1,0,0
