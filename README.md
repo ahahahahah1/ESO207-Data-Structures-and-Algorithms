@@ -1,5 +1,5 @@
 # ESO207--Data-Structures-and-Algorithms
-This repo contains all the assignments that I completed (in a group of 2) in a 4-month university level course of Data Structures and Algorithms.
+This repo contains all the assignments that I completed (in a group of 2) in a 4-month university course of Data Structures and Algorithms during my sophomore year at IIT Kanpur.
 
 The problem statement of the assignments in brief (entire problem statement can be found inside each folder):
 
